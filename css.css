@@ -1,0 +1,34 @@
+h1{
+    font-size: larger; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-decoration: underline;
+    text-transform: capitalize;text-shadow: 2px 2px 3px grey;font-variant: small-caps;
+}
+
+h2{font-size: larger; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; text-decoration: underline;
+    text-transform: capitalize;text-shadow: 2px 2px 3px grey;font-variant: small-caps;
+}
+ 
+p{
+  background-color: darkgreen; border: unset ;border-radius: 5px; text-align: center ;text-transform: capitalize;  
+}
+h1{
+    font-size: 25px;
+    text-align:center;
+    border: 15px; 
+    border-color: chartreuse;
+    border-radius: 5px;
+    border-style: groove;
+}
+.x{
+    font-size: 25px;
+    font-family:monospace;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-display:unset;
+    text-shadow: 7px 7px 7px rgb(184, 159, 21);
+    background-size: cover;
+}
+body
+{
+    background-image: url("C:\Users\ASUS\Desktop\portfolioi\portfolioi\background.jpg")
+}
+ 
